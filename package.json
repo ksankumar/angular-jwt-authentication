@@ -1,8 +1,9 @@
 {
-  "name": "angular-7-jwt-authentication-example",
+  "name": "angular-jwt-authentication",
   "version": "0.0.0",
   "private": true,
   "author": "Santhosh Kumar, Krishnan",
+  "repository": "https://github.com/ksankumar/angular-jwt-authentication.git",
   "dependencies": {
     "@angular/common": "^7.0.1",
     "@angular/compiler": "^7.0.1",
@@ -17,7 +18,7 @@
   },
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --open",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
